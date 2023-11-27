@@ -13,7 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+# CODE:
+```
 <html>
    <title> TIME TABLE </title>
    <body>
@@ -31,17 +32,19 @@ Execute the program
 </tr>
 <tr align="center">
    <th bgcolor="yellow"> 8-10 </th>
-   <td colspan="3"> FREE SLOT</td>
-   <td> PHYSICS </td>
-   <td> CHEMISTRY </td>
+   <td> MATHS</td>
+   <td> ENGLISH </td>
+   <td> SOFT SKILL</td>
+   <td> </td>
+   <td> </td>
 </tr>
 <tr align="center">
     <th bgcolor="yellow"> 10-12 </th>
-    <td> GER </td>
-    <td> FREE SLOT </td>
-    <td> FWAD </td>
-    <td> FWAD </td>
-    <td> PHY </td>
+    <td> </td>
+    <td> FWAD</td>
+    <td>  </td>
+    <td> MATHS </td>
+    <td> PHYSICS </td>
 </tr>
 <tr align ="center">
     <th bgcolor="yellow"> 12-1 </th>
@@ -49,17 +52,19 @@ Execute the program
 </tr>
 <tr align ="center">
     <th bgcolor="yellow"> 1-3 </th>
-    <td colspan="2"> FREE SLOT </td>
-    <td> MAT </td>
-    <td> MAT </td>
-    <td> SS </td>
+    <td> FWAD</td>
+    <td> CHEMISTRY </td>
+    <td>  </td>
+    <td> ENGLISH </td>
+    <td> CHEMISTRY </td>
 </tr>
 <tr align ="center">
     <th bgcolor="yellow"> 3-5 </th>
-    <td colspan="2"> FREE SLOT </td>
-    <td> GER </td>
-    <td> CHE </td>
-    <td> FWAD </td>
+    <td> PHYSICS</td>
+    <td>  </td>
+    <td> FWAD</td>
+    <td> PYTHON</td>
+    <td>PYTHON</td>
 </tr>
 </tr>
 </table>
@@ -104,5 +109,6 @@ Execute the program
     </center>
     </body>
 </html>
-# OUPUT
-![output](./(TIMETABLE.png))
+```
+  # #OUPUT
+![output](./timetable.png)
