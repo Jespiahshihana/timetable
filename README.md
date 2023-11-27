@@ -112,3 +112,5 @@ Execute the program
 ```
   # #OUPUT
 ![output](./timetable.png)
+# RESULT 
+Thus the program execuited successfully.
